@@ -82,4 +82,7 @@ After the repo is created and has the code,
 - Add docstrings to the functions if they don't exist.
 - Add assert statements to ensure the input is in the right format. (Ex. Ensure all the rows of the input board are of the same lengths through assert statements.)  
 - After the above changes are made to the local computer or in the Web IDE, push this change to the remote, and make a pull request on GitHub to your friend's repository. Add a review message describing the change you made and why your friend should accept your pull request.
+- 
+## Link to Aayush's profile - https://github.com/zaayush/Week-4-Lab-Submission 
+## Link to Lakshita's profile - https://github.com/laks1806
 
