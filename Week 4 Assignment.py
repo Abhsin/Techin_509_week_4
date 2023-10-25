@@ -28,7 +28,7 @@ def flood_fill(input_board, old, new, x, y):
         if (    
             x < 0 
             or x >= len(input_board)
-            or y <=0 
+            or y <0 # "CHANGE" The condition y <= 0 in your if-statement might not be the intended condition. You should consider changing it to y < 0 if you want to check that y is out of bounds.
             or y >= len(input_board[0])
             or input_board[x][y] != old
         ):
