@@ -84,5 +84,5 @@ After the repo is created and has the code,
 - After the above changes are made to the local computer or in the Web IDE, push this change to the remote, and make a pull request on GitHub to your friend's repository. Add a review message describing the change you made and why your friend should accept your pull request.
 - 
 ## Link to Aayush's profile - https://github.com/zaayush/Week-4-Lab-Submission 
-## Link to Lakshita's profile - https://github.com/laks1806
+## Link to Lakshita's profile - https://github.com/laks1806/Week-4-Lab-Submission-by-laks
 
