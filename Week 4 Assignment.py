@@ -58,7 +58,19 @@ for a in modified_board:
 # ....###~~~~~~~~~~~~#..
 # ....#~~~~~~~~~~~~###..
 # ....##############....
-
+# zaayush changes statrs
+del board  # You have to delete the old board or define the board again to remove the old values for the flood fill to work properly
+board = [
+    "......................",
+    "......##########......",
+    "......#........#......",
+    "......#........#......",
+    "......#........#####..",
+    "....###............#..",
+    "....#............###..",
+    "....##############....",
+]
+# zaayush changes ends
 modified_board = flood_fill(input_board=board, old=".", new="~", x=1, y=1)
 
 for a in modified_board:
